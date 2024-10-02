@@ -1,0 +1,4 @@
+pokemontcgsdk
+sys
+tabulate
+csv
