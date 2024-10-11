@@ -7,7 +7,7 @@ import csv
 
 # imports api key
 from pokemontcgsdk import RestClient
-RestClient.configure('9d48e637-0220-4f68-97d3-65d037be2839')
+RestClient.configure()
 
 # main controls the flow of the program
 def main():
